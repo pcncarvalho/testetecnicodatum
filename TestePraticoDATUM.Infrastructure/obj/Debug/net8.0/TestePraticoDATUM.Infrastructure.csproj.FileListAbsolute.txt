@@ -1,0 +1,15 @@
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePraticoDATUM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePraticoDATUM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePraticoDATUM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePraticoDATUM.Infrastructure.AssemblyInfo.cs
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePraticoDATUM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\bin\Debug\net8.0\TestePraticoDATUM.Infrastructure.deps.json
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\bin\Debug\net8.0\TestePraticoDATUM.Infrastructure.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\bin\Debug\net8.0\TestePraticoDATUM.Infrastructure.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\bin\Debug\net8.0\TestePraticoDATUM.Core.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\bin\Debug\net8.0\TestePraticoDATUM.Core.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePra.7999941D.Up2Date
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePraticoDATUM.Infrastructure.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\refint\TestePraticoDATUM.Infrastructure.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\TestePraticoDATUM.Infrastructure.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Infrastructure\obj\Debug\net8.0\ref\TestePraticoDATUM.Infrastructure.dll

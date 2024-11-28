@@ -1,0 +1,11 @@
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\TestePraticoDATUM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\TestePraticoDATUM.Core.AssemblyInfoInputs.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\TestePraticoDATUM.Core.AssemblyInfo.cs
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\TestePraticoDATUM.Core.csproj.CoreCompileInputs.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\bin\Debug\net8.0\TestePraticoDATUM.Core.deps.json
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\bin\Debug\net8.0\TestePraticoDATUM.Core.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\bin\Debug\net8.0\TestePraticoDATUM.Core.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\TestePraticoDATUM.Core.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\refint\TestePraticoDATUM.Core.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\TestePraticoDATUM.Core.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Core\obj\Debug\net8.0\ref\TestePraticoDATUM.Core.dll

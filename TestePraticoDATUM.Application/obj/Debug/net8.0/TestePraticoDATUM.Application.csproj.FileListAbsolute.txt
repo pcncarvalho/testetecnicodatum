@@ -1,0 +1,17 @@
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\bin\Debug\net8.0\TestePraticoDATUM.Application.deps.json
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\bin\Debug\net8.0\TestePraticoDATUM.Application.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\bin\Debug\net8.0\TestePraticoDATUM.Application.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePraticoDATUM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePraticoDATUM.Application.AssemblyInfoInputs.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePraticoDATUM.Application.AssemblyInfo.cs
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePraticoDATUM.Application.csproj.CoreCompileInputs.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePraticoDATUM.Application.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\refint\TestePraticoDATUM.Application.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePraticoDATUM.Application.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\ref\TestePraticoDATUM.Application.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePraticoDATUM.Application.csproj.AssemblyReference.cache
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\bin\Debug\net8.0\TestePraticoDATUM.Core.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\bin\Debug\net8.0\TestePraticoDATUM.Infrastructure.dll
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\bin\Debug\net8.0\TestePraticoDATUM.Core.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\bin\Debug\net8.0\TestePraticoDATUM.Infrastructure.pdb
+C:\Users\pcnca\source\repos\TestePraticoDATUM\TestePraticoDATUM.Application\obj\Debug\net8.0\TestePra.2684A1D6.Up2Date
